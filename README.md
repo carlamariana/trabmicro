@@ -1,8 +1,11 @@
-# Trabalho Final da disciplina de MicroProcessados
+# Trabalho Final da disciplina de Sistemas Microprocessados
 
 Equipe: 
-Bruno Nascimento Brasilino de Freitas   511399 	         
+
+Bruno Nascimento Brasilino de Freitas   511399 	 
+
 Carla Mariana Carlos                    499354
+
 Paulo Davi Ramos Albuquerque            495946
 
 ## Sobre o trabalho
